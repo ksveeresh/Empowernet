@@ -1,0 +1,77 @@
+{
+  "btn_join":"JOIN NOW",
+  "btn_sign_in":"SIGN IN",
+  "txt_Mentor":"Mentor",
+  "txt_Mentee":"Mentee",
+  "txt_SigningUp":"Signing Up As A",
+  "txt_ForgotPassword":"Forgot Password ?",
+  "txt_Password":"Password",
+  "txt_Username":"Email address/Phone number",
+  "txt_FirstName":"First Name",
+  "txt_LastName":"Last Name",
+  "txt_VerifyPassword":"Verify Password",
+  "t_and_c":"By signing in you agree with the Terms and Conditions and Privacy of the service",
+  "txt_ChooseLanguage":"Choose Language",
+  "txt_CreateProfile":"Create Your Profile",
+  "txt_Headline":"Occupation Headline",
+  "txt_Location":"Input Location",
+  "txt_Country":"Country",
+  "txt_Continue":"Continue",
+  "txt_EducationProfile":" Education Profile",
+  "txt_CurrentGrade":"Current Grade",
+  "txt_EducationalInstitutions":"Educational Institutions",
+  "txt_SchoolYear":"School Year: ",
+  "txt_StartYear":"Start Year",
+  "txt_EndYear":"End Year",
+  "txt_CareerInterests":"Career Interests",
+  "txt_Editlater":"Edit later",
+  "txt_TypeofWork":"Type of Work",
+  "txt_WorkExperiencedd":"Do you have work experience",
+  "txt_WorkExperience":" Work Experience",
+  "txt_WorkExperienc_place":"Institution or Company",
+  "txt_Position":"Position",
+  "txt_WorkYear":"Work Year: ",
+  "txt_AddMore":"Add More",
+  "txt_PersonalSkills":"Personal Skills",
+  "txt_PersonalIntersts":"Add Personal Intersts",
+  "txt_PersonalSkillsmulti":"Add Skills",
+  "txt_UploadCV":"Upload Basic CV",
+  "txt_QuickApplication":"Quick Application",
+  "txt_Q1":"Why do you want to be a mentor?",
+  "txt_Q2":"What kind of skills or knowledge do you have that will help a mentee grow?",
+  "txt_Q3":"What mentorship are you particularly interested in i.e academic tutoring or career support and why?(Be specific)",
+  "txt_Q4":"How many hours a week do you think you can tentatively give to mentorship?",
+  "txt_BasicBio":"Basic Bio (Occupation ,about yourself)",
+  "txt_AreasofInterest":"Areas of Interest",
+  "txt_Languages":"Languages",
+  "txt_conform":"Confirm",
+  "txt_gander":"Gender",
+  "txt_educationlavel":"Education Lavel",
+  "txt_photo1":"Upload a photo",
+  "txt_photo2":"(optional)",
+  "txt_t_and_c1":"By clicking ‘Join Now!’ you agree to our",
+  "txt_t_and_c2":"Privacy Policy",
+  "txt_t_and_c3":"and",
+  "txt_t_and_c4":"Terms and Conditions",
+  "txt_EducationLevel":"Education Level",
+  "txt_sta_end":"Start Date - End Date"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

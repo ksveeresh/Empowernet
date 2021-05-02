@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "172959122674",
+    "firebase_url": "https://soughted-c5511.firebaseio.com",
+    "project_id": "soughted-c5511",
+    "storage_bucket": "soughted-c5511.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172959122674:android:8e7be43993bce34497fc6b",
+        "android_client_info": {
+          "package_name": "com.veeresh.soughted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172959122674-a0kf9qnbf4okrnj5b78lnco8be157skb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.veeresh.soughted",
+            "certificate_hash": "18e51d3a93b6f4dae8e659733bb7196c0479be06"
+          }
+        },
+        {
+          "client_id": "172959122674-cunk33loq89r2mau755o2uq42niscdjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBerlIbpmyfIMxTuXNhwrzrWPvc8KppN6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172959122674-cunk33loq89r2mau755o2uq42niscdjq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
